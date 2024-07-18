@@ -13,5 +13,16 @@
 }
 body{
     background-image: url("fondos.jpg");
+
+
+}  
+.img1{
     
+height: 300px;
+width: 350px;
+background-image: url("circuitoselectricos.jpg");
+
+
+
+
 }
