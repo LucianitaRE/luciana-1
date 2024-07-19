@@ -19,10 +19,17 @@ body{
 .img1{
     
 height: 300px;
-width: 350px;
+width: 550px;
 background-image: url("circuitoselectricos.jpg");
+background-repeat: no-repeat;
+
+}
+
+.img2{
 
 
-
+height:300px;
+width: 300px;
+background-image: url(circuitoelec2.jpg);
 
 }
