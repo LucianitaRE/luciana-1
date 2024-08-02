@@ -1,7 +1,7 @@
 /* Temas del segundo período*/
 
 .texto{
-   
+    
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
@@ -31,5 +31,45 @@ background-repeat: no-repeat;
 height:300px;
 width: 300px;
 background-image: url(circuitoelec2.jpg);
+}
+
+h3 {text-align: center;
 
 }
+
+.imgingles {
+
+
+height: 700px;
+width: 1000px;
+background-image: url(transtorno1.jpg);
+
+}
+
+.imgingles1{
+
+
+height: 500px;
+width: 700px;
+background-image: url(transtorno2.jpg);
+background-repeat: no-repeat;
+}
+
+.imgsociales {
+
+
+height: 500px;
+width: 2000px;
+background-image: url(sociales1.jpg);
+background-repeat: no-repeat;
+
+
+
+
+}
+
+
+
+
+
+
