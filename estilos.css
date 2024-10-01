@@ -63,13 +63,22 @@ width: 2000px;
 background-image: url(sociales1.jpg);
 background-repeat: no-repeat;
 
-
+ 
 
 
 }
+ .imgnexcel1{
+
+height:415px;
+width:615px;
+background-image: url(excel.JPG);
+ }
 
 
 
 
-
-
+.imgnexcel2{
+height: 281px;
+width: 508px;
+background-image:url(execel2.png) ;
+}
