@@ -82,3 +82,28 @@ height: 281px;
 width: 508px;
 background-image:url(execel2.png) ;
 }
+
+.leonardo{
+height: 378px;
+width: 391px;
+background-image: url(icono.jpg);
+background-repeat: no-repeat;
+
+}
+
+.hellokitty{
+height: 450px;
+width: 450px;
+background-image: url(imageen.jpg) ;
+background-repeat: no-repeat ;
+
+}
+
+
+
+.elhombrearana{
+height: 1000px;
+width: 2000px;
+background-image: url(araña.jpeg) ;
+background-repeat:no-repeat;
+}
