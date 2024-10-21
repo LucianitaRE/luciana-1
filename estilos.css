@@ -107,3 +107,49 @@ width: 2000px;
 background-image: url(araña.jpeg) ;
 background-repeat:no-repeat;
 }
+
+
+.Sociales{
+    height: 1050px;
+    width: 1050px;
+    background-image: url(Sociales.jpeg);
+    background-repeat: no-repeat;
+}
+.RULE1{
+    height: 1050px;
+    width: 1050px;
+    background-image: url(RULE\ 1.png);
+    background-repeat: no-repeat;
+
+}
+.RULE2{
+    height: 1050px;
+    width: 1050px;
+    background-image: url(RULE\ 2.png);
+    background-repeat: no-repeat;
+}
+.RULE3{
+    height: 1050px;
+    width: 1050px;
+    background-image: url(RULE\ 3.png);
+    background-repeat: no-repeat;
+}
+.RULE4{
+    height: 1050px;
+    width: 1050px;
+    background-image:url(RULE\ 4.jpeg);
+    background-repeat: no-repeat;
+    
+}
+.RULE5{
+    height: 1050px;
+    width: 1050px;
+    background-image: url(RULE\ 5.jpeg);
+    background-repeat: no-repeat;
+}
+.RULE6{
+    width: 1050px;
+    height: 1050px;
+    background-image: url(RULE\ 6.jpeg);
+    background-repeat: no-repeat;
+}
